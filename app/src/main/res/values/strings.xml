@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MyNotesCompose</string>
+    <string name="app_name">MyNotes Red</string>
+    <string name="hello">hello</string>
 </resources>
